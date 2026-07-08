@@ -1,4 +1,4 @@
-# 🖐 HYERIN LIM
+# 🖐 DASH BOARD
 <div align="center">
 
 ## 🤍Stack🤍
